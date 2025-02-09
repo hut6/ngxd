@@ -1,9 +1,6 @@
 {
     "name": "@hutsix/ngxd",
     "version": "17.0.0",
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
-    },
     "description": "NGXD is a dynamic pattern + library for Angular",
     "keywords": [
         "angular",
