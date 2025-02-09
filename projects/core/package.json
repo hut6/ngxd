@@ -1,6 +1,9 @@
 {
-    "name": "@ngxd/core",
+    "name": "@hutsix/ngxd",
     "version": "17.0.0",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
     "description": "NGXD is a dynamic pattern + library for Angular",
     "keywords": [
         "angular",
@@ -13,20 +16,10 @@
     ],
     "author": "thekiba <hr@thekiba.io>",
     "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/IndigoSoft/ngxd.git"
-    },
-    "maintainers": [
-        {
-            "name": "thekiba",
-            "email": "hr@thekiba.io"
-        }
-    ],
     "bugs": {
-        "url": "https://github.com/IndigoSoft/ngxd/issues"
+        "url": "https://github.com/hut6/ngxd/issues"
     },
-    "homepage": "https://github.com/IndigoSoft/ngxd",
+    "homepage": "https://github.com/hut6/ngxd",
     "peerDependencies": {
         "@angular/common": "^17.0.0",
         "@angular/core": "^17.0.0",

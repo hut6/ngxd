@@ -1,5 +1,12 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+scripts.json
+.nvmrc
+.npmrc
+.npm
+.ssh
+
+
 # compiled output
 /.ng_pkg_build
 /dist
